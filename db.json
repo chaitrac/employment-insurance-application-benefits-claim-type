@@ -1,13 +1,12 @@
 {
-  
-  "EIApplication": 
+  "EIApplication": [
     { 
       "data" : {
        "id":1,
        "DetermineTypeOfBenefitsResults": "Renewal",
        "SessionId":"12345"   
     }
-  },
+  }],
   "profile": {
     "name": "typicode"
   }
